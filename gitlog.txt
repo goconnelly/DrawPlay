@@ -1,0 +1,59 @@
+commit af85e119babceaadbfcd7200ca7652a8de2cceee
+Author: Gregory Connelly <goconnelly@mines.edu>
+Date:   Tue Feb 21 21:05:00 2017 -0700
+
+    Changed eyes to blue
+
+commit cfe937e7dfdc40c916f0c6a65762a37edcdf6d2b
+Author: Megan Kallis <mkallis@mines.edu>
+Date:   Tue Feb 21 21:03:12 2017 -0700
+
+    Changed head color back to black
+
+commit e38575d7593d301cfc14ec15bda3738b4530bc55
+Author: Gregory Connelly <goconnelly@mines.edu>
+Date:   Tue Feb 21 20:59:19 2017 -0700
+
+    Added clown nose
+
+commit f236e9e3b5a9a279305a242d23d19abf647ac8c4
+Author: Megan Kallis <mkallis@mines.edu>
+Date:   Tue Feb 21 20:53:24 2017 -0700
+
+    Changed head color to gray
+
+commit 95cf63107d05ac82acd1417fc4c058d444d3387d
+Author: Gregory Connelly <goconnelly@mines.edu>
+Date:   Tue Feb 21 20:49:02 2017 -0700
+
+    Made eyes smaller
+
+commit ed163ad20464f2f3d772f4e6b003e2e5b0e037f9
+Author: Megan Kallis <mkallis@mines.edu>
+Date:   Tue Feb 21 20:46:44 2017 -0700
+
+    Increased cat's mouth size :O
+
+commit 53b7ea7ed6a3a20313f0b3542d44291b1002a790
+Author: Gregory Connelly <goconnelly@mines.edu>
+Date:   Tue Feb 21 20:44:03 2017 -0700
+
+    Eyes changed to white
+
+commit b338b067cf891c7c45037668cf7b30f63dc9541d
+Author: Megan Kallis <mkallis@mines.edu>
+Date:   Tue Feb 21 20:36:31 2017 -0700
+
+    Cat says meow three times now instead of one
+
+commit 3ca8e596b0f5c774114857f5e0961263ed1086ac
+Author: Gregory Connelly <goconnelly@mines.edu>
+Date:   Thu Feb 16 12:02:12 2017 -0700
+
+    Initial Commit
+
+commit cb6679efe17950a60c05de1576d7f37000ee5f1c
+Author: goconnelly <goconnelly@mymail.mines.edu>
+Date:   Thu Feb 16 11:38:42 2017 -0700
+
+    Initial commit
